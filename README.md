@@ -27,7 +27,7 @@ Pour voir un screenshot de votre site, ajoutez simplement un fichier `screenshot
 En ce qui concerne les favicons, Xampp Homepage recherchera de lui-même s'il existe un `favicon.ico` ou `favicon.png` à la racine ou dans `/web/` pour les projets Symfony2.
 
 ## Auteur
-A l'origine, cette page pour WAMP a été créée par Alex-D (http://alex-d.fr/). Utilisant Xampp de mon côté, je l'ai adapté pour qu'elle fonctionne avec ce serveur Web. N'hésitez pas à y contribuer si vous voyez des améliorations à faire...
+A l'origine, cette page pour WAMP a été créée par Alex-D (http://alex-d.fr/). Utilisant Xampp de mon côté, je l'ai adapté pour qu'elle fonctionne avec ce serveur Web. Vous pouvez me suivre sur http://www.deepevening.fr. N'hésitez pas à contribuer si vous voyez des améliorations à faire...
 
 -------
 
